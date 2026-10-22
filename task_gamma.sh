@@ -1,1 +1,0 @@
-/root/practice3/template_task.sh
